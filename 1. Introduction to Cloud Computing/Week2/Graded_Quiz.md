@@ -1,4 +1,4 @@
-# Overview of Cloud Computing: Graded Quiz
+# Cloud Computing Models: Graded Quiz
 
 1. In which cloud service model does the service provider manage the application data along with the infrastructure and platform resources?
    
